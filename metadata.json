@@ -1,0 +1,6 @@
+{
+  "name": "XR Hand Lab Edu",
+  "description": "Laboratorio de Realidad Aumentada y 3D con interaccion gestual mediante vision artificial para educacion escolar y areas curriculares.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
